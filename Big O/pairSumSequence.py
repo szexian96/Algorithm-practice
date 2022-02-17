@@ -17,3 +17,5 @@ print(parSumSequence(4))
 print(parSumSequence(3))
 print(parSumSequence(2))
 print(parSumSequence(1))
+
+# only call out 1 by 1 so only use O(n) space
