@@ -1,10 +1,12 @@
-# ~2/26
+# 2/26まで
 
 1. Algorithm & Data Structure (Everyday)
 
 - [paiza](https://paiza.jp/challenges)
 - [python algo](https://jovian.ai/learn/data-structures-and-algorithms-in-python/lesson/lesson-1-binary-search-linked-lists-and-complexity)
-- [PythonNote](./Python Notes.md)
+- [python-note](python-algorithm\python-notes.md)
+- [python cheatsheet](python-algorithm\python_cheat_sheet.pdf)
+- [google algorithm](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 2. SPI Book (Tue)
 3. JavaScript (Mon)
 
@@ -12,6 +14,9 @@
 
 4. React
 
+- [React Cheatsheet](https://www.freecodecamp.org/news/react-cheatsheet-with-real-world-examples/)
 - [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25601588?start=21#overview)
 
-6. Tech Interview (Wed~Fri)
+5. Tech Interview (Wed~Fri)
+
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/introduction)
