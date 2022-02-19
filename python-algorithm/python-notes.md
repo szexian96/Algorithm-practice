@@ -7,7 +7,6 @@ my_nums = list(map(int,s.split()))
 
 round(a_float, 2)
 
-先try做完所有C的练习先
 
 3. regex check
 ```
@@ -39,3 +38,13 @@ print(x(5))
 ```
 lst = [[] for _ in xrange(a)]
 ```
+
+8. Hashmap
+
+- Dictionary
+- $O(1)$ time complexity with get and put method
+- [LINK HERE](https://stackoverflow.com/questions/8703496/hash-map-in-python)
+
+9. Enumerate
+
+- [LINK HERE](https://www.programiz.com/python-programming/methods/built-in/enumerate)

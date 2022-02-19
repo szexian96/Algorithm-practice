@@ -1,12 +1,14 @@
-# 2/26まで
+# 2/26 まで
 
 1. Algorithm & Data Structure (Everyday)
 
 - [paiza](https://paiza.jp/challenges)
-- [python algo](https://jovian.ai/learn/data-structures-and-algorithms-in-python/lesson/lesson-1-binary-search-linked-lists-and-complexity)
 - [python-note](python-algorithm\python-notes.md)
 - [python cheatsheet](python-algorithm\python_cheat_sheet.pdf)
 - [google algorithm](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/introduction)
+- [Python] 
+
 2. SPI Book (Tue)
 3. JavaScript (Mon)
 

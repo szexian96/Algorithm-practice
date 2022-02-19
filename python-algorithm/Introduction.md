@@ -21,7 +21,7 @@
 
 ## Method
 
-1. State problem clearly, Identify Input and Output
+1. State problem clearly, Identify Input and Output 
 2. Come out with some example input and output. Cover all edges
 3. Correct solution
 4. Implement solution
