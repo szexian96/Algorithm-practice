@@ -8,7 +8,7 @@
 - [google algorithm](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/introduction)
 - [Python] 
-
+ 6/  
 2. SPI Book (Tue)
 3. JavaScript (Mon)
 
